@@ -1,0 +1,5 @@
+INSERT INTO movie(name, description, image) VALUES ('Transformers: The Last Knight', 'A deadly threat from Earth''s history reappears and a hunt for a lost', 'https://image.ibb.co/k7P0kS/transformers4_640x320.jpg');
+INSERT INTO movie(name, description, image) VALUES ('Blade Runner 2049', 'Thirty years after the events of Blade Runner', 'https://image.ibb.co/ct9rQS/Blade_Runner2049_640x320.jpg');
+INSERT INTO movie(name, description, image) VALUES ('Guardians of the Galaxy: Vol. 2', 'Synopsis. Set to the backdrop of "Awesome Mixtape #2"', 'https://image.ibb.co/jAu0kS/GOG2_640x320.jpg');
+INSERT INTO movie(name, description, image) VALUES ('Spiderman: Homecoming', 'Peter Parker balances his life as an ordinary high school student in Queens', 'https://image.ibb.co/da7xX7/spiderman_homecoming_640x320.jpg');
+INSERT INTO movie(name, description, image) VALUES ('Wonder Woman', 'Wonder Woman is a compassionate caring, stubborn, opinionated, highly competitive', 'https://image.ibb.co/dHdAkS/Wonder_Woman_640x320.jpg');
